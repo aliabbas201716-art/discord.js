@@ -61,7 +61,7 @@
 	"funding": "https://github.com/discordjs/discord.js?sponsor",
 	"dependencies": {
 		"commander": "^14.0.2",
-		"jsdoc-to-markdown": "^8.0.3",
+		"jsdoc-to-markdown": "^9.0.0",
 		"tslib": "^2.8.1",
 		"typedoc": "^0.25.13"
 	},
